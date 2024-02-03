@@ -1,8 +1,6 @@
 # React + Vite
+This is a responsive e-commerce app, implemented with reactJS, tailwindCSS, axios, react-router-6.4, redux toolkit and react query, allows users to filter, sort, and search based on different criteria, as well as adding or removing items in their shopping cart. 
+You can see live in below link (use VPN for image loading)
+https://comfy-store-one.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Includes two feature card and user for card services (including adding, removing, updating and delete the entire card) as well as user services (including dark/light mode and account creation/login and guest login)
